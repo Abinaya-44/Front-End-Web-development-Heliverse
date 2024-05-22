@@ -1,0 +1,150 @@
+
+.homepage-motion-art-header-section{
+    background-color: rgb(35, 33, 33);
+}
+.homepage-motion-art-header-section-heading{
+    font-size:22px;
+    color:white;
+    margin-right: 750px;
+    font-family:sora outfit;
+    font-weight:600;
+}
+.homepage-motion-art-header-section-head-style{
+    color:rgb(141, 202, 76);
+    font-weight:400;
+}
+.homepage-motion-art-header-section-logo{
+    height:30px;
+    width:30px;
+}
+.homepage-motion-art-header-section-button{
+    background-color:rgb(141, 202, 76);
+    color:white;
+    height:30px;
+    width:100px;
+    border-radius:5px;
+    border-width:0px;
+    font-family:sora;
+}
+.homepage-motion-art-detail-section{
+    background-color: #0e0f1a;
+    background-size:cover;
+    font-family:Sora Outfit;
+    padding-top:90px;
+}
+.homepage-motion-art-detail-section-button{
+  margin-left:430px;
+}
+.homepage-motion-art-detail-section-purchase-image{
+    margin-right: 550px;
+    margin-left:60px;
+}
+.multicolortext {
+    background-image: linear-gradient(to right,  #F87516 , #5E11FF );
+    background-clip: text;
+    color: transparent;
+    
+  }
+  .homepage-motion-art-detail-section-quote{
+    color:white;
+    font-size:60px;
+    font-weight: 550;
+  }
+  .homepage-motion-art-detail-section-sub-quote {
+    font-size:18px;
+  }
+  .homepage-motion-art-detail-section-sub-para{
+    color:rgb(224, 216, 216);
+    font-size:20px;
+  }
+  .rating-section-para{
+    font-size:22px;
+  }
+  .rating-section-quote{
+    font-weight:550;
+    color:white;
+  }
+  .rating-section-button{
+    background-image: linear-gradient(to right, blue,purple, orange);
+    height:60px;
+    width:260px;
+    border-radius:17px;
+    border-width:0px;
+    color:white;
+    font-size:20px;
+  }
+  .rating-section-image{
+    margin-right:90px;
+  }
+  .section-page-card{
+    
+    background-color: #221b32;
+    background-size: cover;
+    border-radius:17px ;
+    border-color: rgb(94, 94, 90);
+    border-width:1px;
+    border-style:groove;
+    margin-left:95px
+  }
+  .section-page-card-para{
+    font-weight:550;
+    color:white;
+    font-size:22px;
+  }
+  .browser-page{
+    background-color: #221b32;
+    margin-left:80px;
+    width: 85%;
+    margin-bottom: 70px;
+    margin-top:70px;
+    border-radius: 17px;
+    border-color: rgb(85, 85, 82);
+    border-width:1px;
+    border-style:groove;
+  }
+.features-card{
+  background-color: #221b32;
+  border-radius: 17px;
+  border-color: rgb(85, 85, 82);
+  border-width:1px;
+  border-style:groove;
+  
+  
+}
+.features-card-text{
+  color:white;
+  font-size:22px;
+}
+.features-card-para{
+  font-size: 18px;
+}
+.footer-section{
+  background-image: linear-gradient(to left, blue,purple, orange);
+  padding-left:60px;
+  background-size: cover;
+}
+.footer-section-icons{
+  text-align: right;
+}
+.footer-section-icons-style{
+  color:white;
+  margin-right:25px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  cursor: none; /* Hide the default cursor */
+  
+}
+
+canvas {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+
