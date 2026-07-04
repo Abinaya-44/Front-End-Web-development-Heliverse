@@ -8,3 +8,5 @@ Tech stack used:
       Bootstrap
       Javascript
       
+Open the page via: https://polite-croquembouche-31248c.netlify.app/
+deployed the project using Netlify.
